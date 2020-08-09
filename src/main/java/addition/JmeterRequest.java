@@ -1,4 +1,4 @@
-package main.java.addition;
+package addition;
 
 import org.apache.jmeter.protocol.java.sampler.AbstractJavaSamplerClient;
 import org.apache.jmeter.config.Arguments;

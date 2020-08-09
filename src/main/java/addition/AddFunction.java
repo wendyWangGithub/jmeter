@@ -1,4 +1,4 @@
-package main.java.addition;
+package addition;
 
 public class AddFunction {
 	
